@@ -6,4 +6,4 @@
 
 ## Demo
 	
-*Friend Finder* is deployed to Heroku. Please check it out [here](https://github.com/crawleen/FriendFinder).
+*Friend Finder* is deployed to Heroku. Please check it out [here](https://friendfinder2018.herokuapp.com/).
